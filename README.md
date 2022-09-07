@@ -1,1 +1,1 @@
-# daidaibendai.githuv.io
+# daidaibendai.github.io
